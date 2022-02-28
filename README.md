@@ -6,7 +6,7 @@ Instructor: Dr.Hamid Beigy
 # homework
 
 # quiz
-[quiz1]()
+[quiz1](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/blob/master/quiz1/quiz1.pdf)
 
 # TA Class
 
