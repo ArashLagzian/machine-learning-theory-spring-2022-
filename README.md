@@ -4,6 +4,7 @@ Machine Learning Theory materials including homework, quizzes, and TA classes th
 Instructor: Dr.Hamid Beigy
 
 # homework
+[homework1](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/homeworks/homework1.pdf)
 
 # quiz
 [quiz1](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/quiz1/quiz1.pdf)
