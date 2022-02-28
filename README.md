@@ -6,6 +6,7 @@ Instructor: Dr.Hamid Beigy
 # homework
 
 # quiz
+[quiz1]()
 
 # TA Class
 
