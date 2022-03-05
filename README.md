@@ -3,6 +3,12 @@ Machine Learning Theory materials including homework, quizzes, and TA classes th
 
 Instructor: Dr.Hamid Beigy
 
+# slide
+[all slides](http://sharif.edu/~beigy/14002-40718.html)
+
+# video
+[all videos](https://drive.google.com/drive/folders/1P9G74CBd58j6QSioUoPSNesfftj5GFjN?usp=sharing)
+
 # homework
 [homework1](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/homework/homework1.pdf)
 
