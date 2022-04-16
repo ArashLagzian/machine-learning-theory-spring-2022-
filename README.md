@@ -14,7 +14,7 @@ Instructor: Dr.Hamid Beigy
 
 [homework2](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/homework/homework2.pdf)
 
-homework3
+[homework3](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/homework/homework3.pdf)
 
 homework4
 
