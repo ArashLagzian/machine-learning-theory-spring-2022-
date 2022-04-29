@@ -25,7 +25,7 @@ homework5
 
 [quiz2](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/quiz/quiz2.pdf)
 
-quiz3
+[quiz3](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/quiz/quiz3.pdf)
 
 quiz4
 
