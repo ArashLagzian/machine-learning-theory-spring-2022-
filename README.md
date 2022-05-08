@@ -21,11 +21,11 @@ homework4
 homework5
 
 # quiz
-[quiz1](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/quiz/quiz1.pdf)
+[quiz1](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/quiz/quiz1.pdf). [solution](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/quiz/MLT_Quiz1_solution.pdf)
 
-[quiz2](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/quiz/quiz2.pdf)
+[quiz2](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/quiz/quiz2.pdf). [solution](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/quiz/MLT_Quiz2_solution.pdf)
 
-[quiz3](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/quiz/quiz3.pdf)
+[quiz3](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/quiz/quiz3.pdf). [solution](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/quiz/MLT_Quiz3_solution.pdf)
 
 quiz4
 
