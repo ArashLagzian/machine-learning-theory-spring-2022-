@@ -34,5 +34,6 @@ quiz5
 quiz6
 
 # TA Class
+[midterm sample questions](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/sample%20questions/MLT_sample_questions.pdf)
 
 # exam
