@@ -37,3 +37,4 @@ quiz6
 [midterm sample questions](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/sample%20questions/MLT_sample_questions.pdf)
 
 # exam
+[midterm](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/exam/midterm.pdf)
