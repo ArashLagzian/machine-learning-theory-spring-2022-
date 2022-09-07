@@ -29,7 +29,7 @@ Instructor: Dr.Hamid Beigy
 
 [quiz4](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/quiz/quiz4.pdf). [solution](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/quiz/MLT_Quiz4_solution.pdf)
 
-[quiz5](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/quiz/quiz5.pdf)
+[quiz5](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/quiz/quiz5.pdf). [solution](https://github.com/ArashLagzian/machine-learning-theory-spring-2022-/raw/master/quiz/MLT_Quiz5_solution.pdf)
 
 
 # TA Class
